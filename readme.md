@@ -1,7 +1,6 @@
 ###### Sürekli güncellenmeye devam edecektir eklemek istedikleriniz var ise sohbet kanalından veya sosyal medya hesaplarından iletebilirsiniz.
 
 # 📚 Başlıklar
-- [📚 Başlıklar](#-başlıklar)
 - [📌 İçerikler](#-i̇çerikler)
   - [1. Artificial Intelligence](#1-artificial-intelligence)
   - [2. Mobil](#2-mobil)
