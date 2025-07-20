@@ -1,7 +1,6 @@
 ###### Sürekli güncellenmeye devam edecektir eklemek istedikleriniz var ise sohbet kanalından veya sosyal medya hesaplarından iletebilirsiniz.
 
 # 📚 Başlıklar
-<<<<<<< HEAD
 - [📚 Başlıklar](#-başlıklar)
 - [📌 İçerikler](#-i̇çerikler)
   - [1. Artificial Intelligence](#1-artificial-intelligence)
@@ -27,9 +26,6 @@
   - [2. Sınıf](#2-sınıf)
   - [3. Sınıf](#3-sınıf)
 - [8. GitHub için kaynak](#8-github-için-kaynak)
->>>>>>> f8dd6373f23e6973ed684be15084afdc0b0d5608
-
----
 
 # 📌 İçerikler
 
