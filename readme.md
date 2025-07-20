@@ -1,6 +1,7 @@
 ###### Sürekli güncellenmeye devam edecektir eklemek istedikleriniz var ise sohbet kanalından veya sosyal medya hesaplarından iletebilirsiniz.
 
 # 📚 Başlıklar
+<<<<<<< HEAD
 - [📚 Başlıklar](#-başlıklar)
 - [📌 İçerikler](#-i̇çerikler)
   - [1. Artificial Intelligence](#1-artificial-intelligence)
@@ -14,6 +15,19 @@
     - [2. Sınıf](#2-sınıf)
     - [3. Sınıf](#3-sınıf)
   - [8. GitHub için kaynak](#8-github-için-kaynak)
+=======
+- [1. Artificial Intelligence](#1-artificial-intelligence)
+- [2. Mobil](#2-mobil)
+- [3. Web](#3-web)
+- [4. Embedded Systems](#4-embedded-systems)
+- [5. Game](#5-game)
+- [6. Network Security](#6-network-security)
+- [7. Dersler](#7-dersler)
+  - [1. Sınıf](#1-sınıf)
+  - [2. Sınıf](#2-sınıf)
+  - [3. Sınıf](#3-sınıf)
+- [8. GitHub için kaynak](#8-github-için-kaynak)
+>>>>>>> f8dd6373f23e6973ed684be15084afdc0b0d5608
 
 ---
 
