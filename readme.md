@@ -4,7 +4,7 @@
 - [📚 Başlıklar](#-başlıklar)
 - [📌 İçerikler](#-i̇çerikler)
   - [1. Artificial Intelligence](#1-artificial-intelligence)
-  - [2. Mobil](#2-mobil)
+  - [2. Mobile](#2-mobile)
   - [3. Web](#3-web)
   - [4. Embedded Systems](#4-embedded-systems)
   - [5. Game](#5-game)
@@ -21,6 +21,7 @@
 
 ## 1. Artificial Intelligence
 
+- Yapay zeka yol haritası : [Hasan Çağrı Güngör](https://www.youtube.com/watch?v=CQ5AvnghKdk)
 - Veriseti bulunabilecek web sitesi: [Kaggle](https://www.kaggle.com/)
 - Veriseti bulunabilecek web sitesi: [Roboflow](https://app.roboflow.com/)
 - Tensorflow kurulumu için kaynak : [Eftal İnan](https://www.youtube.com/watch?v=DASXW0UuZNY&t)
@@ -31,10 +32,12 @@
 - Makine öğrenmesi için türkçe kaynak: [Makine öğrenmesi youtube](https://www.youtube.com/playlist?list=PL3ED48mWmYxrAdWjQlOWzFNaM4gLgry5T)
 - Projelerle Yapay Zeka Ve Bilgisayarlı Görü: [Aksoylu](https://github.com/Aksoylu/KODLAB-Projects/tree/main)
 - Stanford birden fazla yapay zeka derslerinin videoları için kaynak : [Standford](https://www.youtube.com/@stanfordonline/featured)
-
+- Çevrimdışı LLM modellerinin çalıştırılmasını sağlayan iki açık kaynaklı araç : [eechat](https://github.com/Lucassssss/eechat)
+- Açık kaynak kodlu çevrimdışı yapay zeka alternatifi : [Jan](https://www.linuxteknik.com/jan-acik-kaynak-ve-cevrimdisi-yapay-zeka-alternatifi/)
+-  Web scraping api : [Web Scraping api](https://www.webscrapingapi.com/web-scraping-services)
 ---
 
-## 2. Mobil
+## 2. Mobile
 
 - Emulator ve sanal cihaz kurmak için : [Android Studio](http://developer.android.com/studio?hl=tr)
 - Mobil uygulama geliştirmek için ortam ve dil : [Flutter/Dart](https://docs.flutter.dev/get-started/install)
@@ -47,6 +50,10 @@
 - Basit bir şekilde mobil uygulama geliştirmek için uygulama(Basit düzeyde uygulamalar) : [MIT app inventor](https://appinventor.mit.edu/)
 - Patika dev React native eğitimi(Projelerle birlikte): [React Native](https://academy.patika.dev/courses/react-native)
 - Patika dev proje örnekleri : [Patika dev](https://academy.patika.dev/courses/react-native-ile-mobile-app-patikasi-projeleri)
+- Kotlin başlangıç seviyesine playlist : [Android Knowledge](https://www.youtube.com/playlist?list=PLQ_Ai1O7sMV0LRCZJaHpl_9WLQunMqrzG)
+- FlutterFlow başlangıç seviye playlist : [The Digital Pro's NoCode Academy](https://www.youtube.com/playlist?list=PLCqeT4jze6ZdQrM3GkSXb8_3I5TQ4oBCU)
+
+
 
 ---
 
