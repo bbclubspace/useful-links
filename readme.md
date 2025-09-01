@@ -14,7 +14,7 @@
     - [2. Sınıf](#2-sınıf)
     - [3. Sınıf](#3-sınıf)
   - [8. GitHub için kaynak](#8-github-için-kaynak)
-
+  - [9. Tasarım projeleri için yararlı linkler](#9-tasarım-projeleri-için-yararlı-linkler)
 
 # 📌 İçerikler
 
@@ -125,3 +125,14 @@
 - Github kurulumu ve auth işlemleri : [Yazılım portalı](https://www.youtube.com/watch?v=N6gt0Tg_utU)
 - Github işlemleri ve kullanımı : [Kodla](https://www.youtube.com/playlist?list=PLh9tR6B_Q32rDSbSaN7Xw9Geba0Va7kpd)
 - Github desktop kurulumu ve kullanımı : [Sosyal bilişim](https://www.youtube.com/watch?v=GGb6Hq4S0-o)
+
+
+---
+## 9. Tasarım projeleri için yararlı linkler
+- Okulun rapor için dokümanları : [BŞEU doküman](https://bilecik.edu.tr/bilgisayar/Icerik/Bitirme_Tasarim_calismasi)
+- Rapor yazımı için Overleaf sitesi : [Overleaf](https://www.overleaf.com/login?)
+- Hocaların akademik çalışmalarını gözlemlemek için (Hocanın ismi ile arama yaparsanız çalışmaları çıkar): [Google akademik](https://scholar.google.com/?hl=tr)
+- Tübitak proje veri tabanı (filtreleme de Fen alanı ve ya aramayla proje fikirleri inceleyebilirsiniz) : [Tübitak veri tabanı](https://search.trdizin.gov.tr/tr/yayin/ara?q=&order=publicationYear-DESC&page=1&limit=20&facet-documentType=PROJECT)
+- Dergipark projeleri : [Dergipark](https://dergipark.org.tr/en/search?q=%22Projeler%22&section=article)
+- Örnek Github repoları : 
+  - 500 adet AI agent proje örneği : [500 adet AI agents projesi](https://github.com/ashishpatel26/500-AI-Agents-Projects?tab=readme-ov-file)
