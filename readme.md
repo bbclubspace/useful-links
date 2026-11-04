@@ -58,6 +58,7 @@
 
 ## 3. Web
 
+- Günlük seyahat ve yaşam deneyimi fikirleri için ücretsiz, anahtarsız JSON API (varsayılan içerik Hollandaca): [Bucketlist Dream of the Day](https://bucketlist.nl/samenwerken#droom-van-de-dag). CORS desteklenir; bağlantılı etkinlik rezervasyonları ücretli olabilir.
 - React : [Enes Bayram](https://www.youtube.com/watch?v=wSDZyaLlCeo&list=PLURN6mxdcwL-xIXzq92ZJN9yRW7Q0mjzw&index=1)
 
 ---
